@@ -60,3 +60,7 @@ determination.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+
+
+My pipeline code has basically imploded and will not successfully run. I'll put up what I *could* get to run, but it's not comprehensive.
